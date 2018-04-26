@@ -1,0 +1,1 @@
+```ksdme's devlog primarily of his adventures through GSoC 2018```
