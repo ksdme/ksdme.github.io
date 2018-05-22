@@ -1,6 +1,6 @@
 ---
     date: 2018-04-26
-    category: week1
+    category: Bonding Period
 ---
 
 ```Hey!, This is the first post in the series of logs that I'll be
